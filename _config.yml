@@ -10,9 +10,9 @@ title: VPOD Workflow
 # some options: fas fa-wrench; fas fa-cogs; fas fa-code; fas fa-chalkboard-teacher; fas fa-book-open
 title-icon: fas fa-feather-alt
 # description and keywords for meta tags
-description: "Create a workshop website quick and easy!"
-keywords: "workshops, websites, gh-pages, jekyll"
-featured-image: "/images/uidaho-workshop.jpg"
+description: "A basic walkthrough of the VPOD workflow"
+keywords: "workshops, poems, poetry, wordpress"
+featured-image: "/images/vpod-logo.png"
 
 # author settings for cc-by, appears in the footer
 author: Corey Oglesby
