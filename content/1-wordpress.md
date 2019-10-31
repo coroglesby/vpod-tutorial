@@ -31,8 +31,8 @@ Copy and paste that code into the body of the post and click `Preview`. **Check 
 
 Once the preview looks good, you're ready to **schedule** the post. You can do this by clicking `Immediately` next to the `Publish` date in the top right of the WordPress window. Don't worry, this won't post the poem immediately, but will rather open a pop-up calendar that you can select the desired publishing date from.
 
-{% include figure.html img="wordpress-1.PNG" alt="Vandal Poem of the Day logo" caption="" width="100%" %}
-{% include figure.html img="wordpress-2.PNG" alt="Vandal Poem of the Day logo" caption="" width="100%" %}
+{% include figure.html img="wordpress-1.PNG" alt="Wordpress screenshot 1" caption="" width="100%" %}
+{% include figure.html img="wordpress-2.PNG" alt="Wordpress screenshot 2" caption="" width="100%" %}
 
 When you've got the date set, click `Schedule...`
 
