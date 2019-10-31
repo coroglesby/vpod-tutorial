@@ -14,13 +14,13 @@ Though every poem is going to be different, the following should provide enough 
 ##### 2. You'll often need to re-break the lines once in Notepad++ so the pasted poem matches the original.
 
 ##### 3. Highlight the space at the end of the first line through to the beginning of the next line down, and type `Ctrl+H`.
-{% include figure.html img="coding-1.png" alt="Vandal Poem of the Day logo" caption="" width="100%" %}
+{% include figure.html img="coding-1.PNG" alt="Vandal Poem of the Day logo" caption="" width="100%" %}
 
 ##### 4. In the Replace field, type `</p>\n<p class="line">` and click `Replace All`. 
-{% include figure.html img="coding-2.png" alt="Vandal Poem of the Day logo" caption="" width="100%" %}
+{% include figure.html img="coding-2.PNG" alt="Vandal Poem of the Day logo" caption="" width="100%" %}
 
 ##### 5. This should make the poem look like this:
-{% include figure.html img="coding-3.png" alt="Vandal Poem of the Day logo" caption="" width="100%" %}
+{% include figure.html img="coding-3.PNG" alt="Vandal Poem of the Day logo" caption="" width="100%" %}
 
 ##### 6. Notice you'll have to add one more `<p class="line">` to the first line, and you'll have to delete the last `<p class="line">` at the end of the poem.
 
@@ -32,13 +32,13 @@ Though every poem is going to be different, the following should provide enough 
 
 `<p class="line byline"><em> by <a href="http://poetry.lib.uidaho.edu/index.php/poets/#sierra-nelson">Sierra Nelson</a></em></p>&nbsp;`
 
-{% include figure.html img="coding-4.png" alt="Vandal Poem of the Day logo" caption="" width="100%" %}
+{% include figure.html img="coding-4.PNG" alt="Vandal Poem of the Day logo" caption="" width="100%" %}
 
 ###### Bottom matter:
 
 `<p class="line bookinfo">from <a target="_blank" href="http://www.poetrynw.org/issue-cover/spring-summer-2010/" rel="noopener noreferrer"><em> Poetry Northwest 05.1 Spring & Summer 2010</em></a><a target="_blank" class="librarylink" href="https://alliance-primo.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,Sierra%20Nelson&tab=everything&search_scope=everything&vid=UID">Find more by  Sierra Nelson at the library</a></p><p class="citation">Copyright © 2010 Sierra Nelson Used with the permission of <a href="http://poetrynw.com/" target="_blank" rel="noopener noreferrer">Poetry Northwest</a>.`
 
-{% include figure.html img="coding-5.png" alt="Vandal Poem of the Day logo" caption="" width="100%" %}
+{% include figure.html img="coding-5.PNG" alt="Vandal Poem of the Day logo" caption="" width="100%" %}
 
 ##### 8. You'll of course need to make sure the links and author name are all correct.
 - The one link in the top matter `<a href="http://poetry.lib.uidaho.edu/index.php/poets/#sierra-nelson">` will take clickers to the author's bio page. 
@@ -54,7 +54,7 @@ Though every poem is going to be different, the following should provide enough 
 
 ##### Your coded poem should look something like this: 
 
-{% include figure.html img="coding-6.png" alt="Vandal Poem of the Day logo" caption="" width="100%" %}
+{% include figure.html img="coding-6.PNG" alt="Vandal Poem of the Day logo" caption="" width="100%" %}
 
 <hr>
 
